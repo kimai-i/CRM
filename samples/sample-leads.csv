@@ -1,0 +1,10 @@
+Call ID,Start Time,Caller Name,Caller Number,Email,Source,Call Type,Duration,Outcome,Notes,Revenue,Zip
+CR-1001,9/27/2026 9:14 AM,"Hernandez, Ana",(555) 201-3344,,Google Ads - PPC,Inbound Call,3:42,Appointment Scheduled,"Main line backed up, booked camera inspection",850,80903
+CR-1002,9/27/2026 11:02 AM,Tom Becker,555.201.9981,,Google Business Profile,Inbound Call,0:48,,Asked about pricing for drain cleaning,,80905
+CR-1003,9/27/2026 1:30 PM,,555-201-7710,,Facebook,Inbound Call,0:06,No answer,,,
+CR-1004,9/28/2026 8:05 AM,Priya Shah,,priya.shah@example.com,google / organic,Web Form,,,"Quote request: ""trenchless sewer replacement"" for 60ft line",,80918
+CR-1005,9/28/2026 10:47 AM,Mike O'Neal,(555) 201-3344,,Google Ads - PPC,Inbound Call,5:10,Sold,Called back to confirm - approved full replacement,9800,80903
+CR-1006,9/28/2026 3:22 PM,Extended Warranty Dept,(555) 000-0000,,Unknown,Inbound Call,0:31,Spam,Robocall,,
+CR-1007,not a real date,Broken Row,555-201-1111,,Direct,Inbound Call,1:00,,This row has a bad date,,
+CR-1008,9/29/2026 7:55 AM,Laura Kim,555 201 4422,laura.k@example.com,Referral - Neighbor,Text Message,,,Texted photos of water heater leak,,80920
+CR-1001,9/27/2026 9:14 AM,"Hernandez, Ana",(555) 201-3344,,Google Ads - PPC,Inbound Call,3:42,Appointment Scheduled,"Duplicate of the first row (same Call ID)",850,80903

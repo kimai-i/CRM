@@ -1,0 +1,7 @@
+Job #,Customer name,Mobile number,Email,Job created date,Scheduled start,Completed,Job status,Total amount,Outstanding balance,Lead source,Description,Zip
+HCP-2001,Ana Hernandez,(555) 201-3344,,09/28/2026,09/30/2026,,Scheduled,"$9,800.00","$9,800.00",Google,Full sewer line replacement,80903
+HCP-2002,Priya Shah,,priya.shah@example.com,09/28/2026,,,Estimate,"$14,500.00",,Website,Trenchless sewer replacement - 60ft,80918
+HCP-2003,Laura Kim,555 201 4422,laura.k@example.com,09/29/2026,09/29/2026,09/29/2026,Completed,"$1,850.00",$0.00,Referral,Water heater replacement,80920
+HCP-2004,Greg Olsen,(555) 201-8080,,09/20/2026,09/22/2026,09/22/2026,Completed,$425.00,$425.00,Repeat customer,Drain cleaning - kitchen,80904
+HCP-2005,Canceled Customer,(555) 201-1234,,09/21/2026,,,Canceled,$600.00,,Google,Camera inspection,80903
+Totals,,,,,,,,"$27,175.00",,,,
